@@ -12,7 +12,7 @@ I'm an **Engineering student** passionate about building scalable web applicatio
 
 I enjoy transforming ideas into real-world software, learning modern technologies, and continuously improving my problem-solving skills.
 
-Currently, I'm focused on becoming a **Full Stack Developer** by building projects that combine clean UI, efficient backend logic, and practical software engineering principles.
+Currently, I'm focused on becoming a **Full Stack Developer** by building projects that combine clean UI, efficient backend logic, ensure security authentication and practical software engineering principles.
 
 ---
 
@@ -36,13 +36,13 @@ Currently, I'm focused on becoming a **Full Stack Developer** by building projec
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cs,js"/>
+<img src="https://skillicons.dev/icons?i=java,cs,python"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap"/>
 </p>
 
 ### Backend & Database
@@ -54,7 +54,7 @@ Currently, I'm focused on becoming a **Full Stack Developer** by building projec
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,figma,postman"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@ Currently, I'm focused on becoming a **Full Stack Developer** by building projec
 
 ---
 
-## 🌎Connect With Me
+## 🌐 Social Networks
 
 <p align="center">
 
@@ -87,16 +87,6 @@ Currently, I'm focused on becoming a **Full Stack Developer** by building projec
 
 </p>
 
----
-
 <div align="center">
 
-### 💭 Philosophy
 
-> **"Keep Learning • Keep Building • Keep Growing"**
-
-*"Code with purpose. Learn with passion."*
-
-⭐ Thanks for visiting my profile!
-
-</div>
