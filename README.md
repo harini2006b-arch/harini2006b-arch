@@ -36,7 +36,7 @@ Currently, I'm focused on becoming a **Full Stack Developer** by building projec
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,cs,js"/>
+<img src="https://skillicons.dev/icons?i=java,cs,js"/>
 </p>
 
 ### Frontend
