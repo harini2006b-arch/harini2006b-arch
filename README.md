@@ -59,16 +59,6 @@ Currently, I'm focused on becoming a **Full Stack Developer** by building projec
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=harini2006b-arch&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🌐 Social Networks
 
 <p align="center">
