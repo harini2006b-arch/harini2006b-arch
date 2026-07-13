@@ -25,7 +25,6 @@ Currently, I'm focused on becoming a **Full Stack Developer** by building projec
 - Contribute to Open Source
 
 </td>
-
 </tr>
 </table>
 
