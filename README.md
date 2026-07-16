@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Harini Balaji
+# Hi, I'm Harini B
 
 ### Full Stack Developer | AI & Data Science Enthusiast
 
