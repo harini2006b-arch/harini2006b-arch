@@ -59,7 +59,7 @@ Currently, my focus is on advancing my skills as a **Full Stack Developer** by a
 
 ---
 
-## Activity
+## Activities
 
 <div align="center">
   
