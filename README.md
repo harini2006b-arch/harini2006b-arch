@@ -11,6 +11,7 @@
 </div>
 
 ---
+
 ## About Me
 
 I am an **Engineering student** specializing in developing scalable web applications and integrating Artificial Intelligence solutions. I am passionate about bridging the gap between clean, responsive user interfaces and robust, efficient backend architectures. 
