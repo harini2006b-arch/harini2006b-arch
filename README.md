@@ -55,6 +55,8 @@ Currently, my focus is on advancing my skills as a **Full Stack Developer** by a
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-3776HB?style=for-the-badge&logo=python&logoColor=white"/>
+
 </p>
 
 ### Tools & DevOps
