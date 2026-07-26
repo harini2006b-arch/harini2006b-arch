@@ -80,7 +80,5 @@ Currently, my focus is on advancing my skills as a **Full Stack Developer** by a
 ---
 
 <div align="center">
-
 *"Every project is another step toward becoming a better developer."*
-
 </div>
