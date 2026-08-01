@@ -18,6 +18,7 @@ I am an **Engineering student** specializing in developing scalable web applicat
 
 Currently, my focus is on advancing my skills as a **Full Stack Developer** by architecting projects that prioritize secure authentication, complex data management, and practical software engineering principles. I thrive on translating conceptual ideas into production-ready software.
 
+
 ### Current Focus & Goals
 
 - Architecting scalable Full Stack applications using modern frameworks.
@@ -26,6 +27,7 @@ Currently, my focus is on advancing my skills as a **Full Stack Developer** by a
 - Continuously optimizing Data Structures & Algorithms (DSA) and problem-solving efficiency.
 
 ---
+
 
 # Technical Arsenal
 
