@@ -69,14 +69,6 @@ Currently, my focus is on advancing my skills as a **Full Stack Developer** by a
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harini2006b-arch&theme=tokyonight&hide_border=true"/>
-
 <br><br>
 
 </div>
