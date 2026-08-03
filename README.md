@@ -67,8 +67,6 @@ Currently, my focus is on advancing my skills as a **Full Stack Developer** by a
   <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,figma,postman" />
 </p>
 
----
-
 <br><br>
 
 </div>
