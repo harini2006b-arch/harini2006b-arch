@@ -70,19 +70,3 @@ Currently, my focus is on advancing my skills as a **Full Stack Developer** by a
 </p>
 
 ---
-
-# GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harini2006b-arch&theme=tokyonight&hide_border=true" />
-
-
-## Programming Languages Used
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harini2006b-arch&theme=github_dark"
-    alt="Languages used across repositories"
-    height="180"
-  />
-</p>
